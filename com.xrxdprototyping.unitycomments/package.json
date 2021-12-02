@@ -1,0 +1,8 @@
+{
+    "name": "com.xrxdprototyping.unitycomments",
+    "version": "0.0.1",
+    "displayName": "Unity Comments",
+    "description": "A simple, no frills tool for adding comments to unity projects.",
+    "unity": "2017.1",
+    "dependencies": {}
+}
