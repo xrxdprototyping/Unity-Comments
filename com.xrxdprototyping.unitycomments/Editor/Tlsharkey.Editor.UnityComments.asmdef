@@ -1,0 +1,16 @@
+{
+    "name": "Tlsharkey.Editor.Comment",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5f8a00374737446daa4f33b9c897f2cf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
